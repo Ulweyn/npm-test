@@ -1,1 +1,1 @@
-export { AbstractController } from "./controller/abstractClass"
+export { ContrAbstractController } from "./controller/abstractClass"
