@@ -1,0 +1,1 @@
+export { AbstractController } from "./controller/abstractClass"
